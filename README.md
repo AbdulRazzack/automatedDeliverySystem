@@ -1,9 +1,4 @@
 <img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/ad40bd94-db2e-468d-9291-da48473a89c4" />
-
-
-
-```streamlit run app.py```
-
 # 🍗 Los Pollos Hermanos – Agentic AI Delivery System
 
 An **agent-based food delivery simulation** built using **Streamlit**, demonstrating how multiple AI-inspired agents collaborate to process natural language food orders, manage inventory, and intelligently assign delivery drivers.
