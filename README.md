@@ -1,9 +1,5 @@
-# automatedDeliverySystem
-
 <img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/ad40bd94-db2e-468d-9291-da48473a89c4" />
 
-
-This is an agentic approach for automating a restaurant's ordering and delivery system.
 
 
 ```streamlit run app.py```
@@ -96,8 +92,49 @@ No external ML libraries are required.
 ```bash
 pip install streamlit
 ```
-## ▶️ How to Run
+### ▶️ How to Run
 
 ```bash
-streamlit run app.py```
+streamlit run app.py
+```
+
+### Example Prompt
+```bash
+I want a bucket of spicy fried chicken and 2 cokes
+```
+```bash
+My address is 221B Baker Street
+```
+
+```confirm order```
+
+## 🔮 Future Improvements
+
+- Integrate a real Large Language Model (LLM) for advanced intent extraction
+- Add delivery route visualization using maps
+- Persist inventory and orders using a database (PostgreSQL / MongoDB)
+- Implement user authentication and order history
+- Add payment workflow simulation
+- Improve driver dispatch using optimization algorithms
+- Add analytics dashboard for order insights
+
+## 👤 Author
+
+**Mohammed Abdul Razzack**  
+📍 London, United Kingdom  
+
+- GitHub: https://github.com/Abdulrazzack  
+- LinkedIn: https://www.linkedin.com/in/abdulrazzack  
+
+AI & Software Engineering enthusiast with interests in  
+**Intelligent Systems, Multi-Agent Architectures, and Applied Machine Learning**.
+
+## ⚠️ Disclaimer
+
+This project is created **strictly for educational and demonstration purposes**.
+
+All characters, brand names, and references to **Los Pollos Hermanos** are fictional
+and inspired by popular media. No affiliation or endorsement is intended.
+
+The system does not represent a real delivery service.
 
